@@ -1,0 +1,34 @@
+[
+  {
+    "name": "usd_a",
+    "address": "0x23c53b981eb20bceadd76ac06ad452d150e1be13",
+    "symbol": "A",
+    "decimals": 18,
+    "chainId": 238,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+  },
+  {
+    "name": "usd_b",
+    "address": "0x94183bc01769c9fcab6dfa3a59e7add08259ae2d",
+    "symbol": "B",
+    "decimals": 18,
+    "chainId": 238,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+  },
+  {
+    "name": "usd_c",
+    "address": "0xa600ad1805ee31867d66ed41c1f35cfcb0398228",
+    "symbol": "C",
+    "decimals": 18,
+    "chainId": 238,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+  },
+  {
+    "name": "usd_d",
+    "address": "0x5bd5d19b6a0be5f3ecfd492a9276f6bc0b9e2908",
+    "symbol": "D",
+    "decimals": 18,
+    "chainId": 238,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599/logo.png"
+  }
+]
