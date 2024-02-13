@@ -1,0 +1,6 @@
+{
+  "name": "@blasterswap/tokens",
+  "version": "1.0.0",
+  "description": "The Blasterswap DEX common token list",
+  "repository": "git@github.com:blasterswap/tokens.git"
+}
