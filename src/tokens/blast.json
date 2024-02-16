@@ -8,7 +8,7 @@
     "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
   },
   {
-    "name": "USD Bancor",
+    "name": "USDB",
     "address": "0x94183bc01769c9fcab6dfa3a59e7add08259ae2d",
     "symbol": "USDB",
     "decimals": 18,
@@ -16,9 +16,9 @@
     "logoURI": "https://pbs.twimg.com/profile_images/1758402572598288384/_u5RbcyG_400x400.png"
   },
   {
-    "name": "Basis Cash",
+    "name": "Pacman",
     "address": "0xa600ad1805ee31867d66ed41c1f35cfcb0398228",
-    "symbol": "BAC",
+    "symbol": "PAC",
     "decimals": 18,
     "chainId": 168587773,
     "logoURI": "https://pbs.twimg.com/profile_images/1499571704753901569/wLAcCdsu_400x400.jpg"
