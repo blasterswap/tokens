@@ -1,31 +1,39 @@
 [
   {
-    "name": "USDB",
-    "address": "0x94183bc01769c9fcab6dfa3a59e7add08259ae2d",
-    "symbol": "USDB",
+    "name": "USD A",
+    "address": "0x5eb1Fd47BF5bF67FdaE238E795363A8265686FE1",
+    "symbol": "A",
     "decimals": 18,
     "chainId": 168587773,
     "logoURI": "https://pbs.twimg.com/profile_images/1758402572598288384/_u5RbcyG_400x400.png"
   },
   {
-    "name": "Pacman",
-    "address": "0xa600ad1805ee31867d66ed41c1f35cfcb0398228",
-    "symbol": "PAC",
+    "name": "USD B",
+    "address": "0xF434AFE11208e0A8EB6667Cb61E548E4A7578c22",
+    "symbol": "B",
     "decimals": 18,
     "chainId": 168587773,
     "logoURI": "https://pbs.twimg.com/profile_images/1499571704753901569/wLAcCdsu_400x400.jpg"
   },
   {
-    "name": "Blaster",
-    "address": "0x5bd5d19b6a0be5f3ecfd492a9276f6bc0b9e2908",
-    "symbol": "BLSTR",
+    "name": "USD C",
+    "address": "0x3Cf99E283f110f21b1FB931a01a51e5a36e9AE3e",
+    "symbol": "C",
     "decimals": 18,
     "chainId": 168587773,
     "logoURI": "https://pbs.twimg.com/profile_images/1747828079551262720/wPPx7zft_400x400.jpg"
   },
   {
+    "name": "USD D",
+    "address": "0x1FebA97299ba4Caf0ca51cfD19a1BFD4bb43A119",
+    "symbol": "D",
+    "decimals": 18,
+    "chainId": 168587773,
+    "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+  },
+  {
     "name": "Wrapped Ethereum",
-    "address": "0x23c53b981eb20bceadd76ac06ad452d150e1be13",
+    "address": "0x4200000000000000000000000000000000000023",
     "symbol": "wETH",
     "decimals": 18,
     "chainId": 168587773,
