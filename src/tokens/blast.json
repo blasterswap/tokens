@@ -8,6 +8,14 @@
     "logoURI": "https://pbs.twimg.com/profile_images/1758402572598288384/_u5RbcyG_400x400.png"
   },
   {
+    "name": "Orbit Protocol",
+    "address": "0x42E12D42b3d6C4A74a88A61063856756Ea2DB357",
+    "symbol": "ORBIT ",
+    "decimals": 18,
+    "chainId": 81457,
+    "logoURI": "https://assets.coingecko.com/coins/images/35675/small/orbit.png?1709520496"
+  },
+  {
     "name": "Wrapped Ethereum",
     "address": "0x4300000000000000000000000000000000000004",
     "symbol": "wETH",
